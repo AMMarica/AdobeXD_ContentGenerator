@@ -1,0 +1,17 @@
+{
+    "id": "Content Generator Plugin",
+    "name": "CONTENT GENERATOR",
+    "version": "1.0.0",
+    "host": {
+        "app": "XD",
+        "minVersion": "8.0"
+    },
+
+    "uiEntryPoints": [
+        {
+            "type": "menu",
+            "label": "Content Generator...",
+            "commandId": "contentGenerator"
+        }
+    ]
+}
